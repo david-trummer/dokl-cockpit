@@ -1,0 +1,5 @@
+# Geheimnisse und Rohdaten gehören nie ins Repository
+secrets*.json
+*schluessel*.json
+export/
+node_modules/
